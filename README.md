@@ -42,18 +42,6 @@
 - Collaborated with cross-functional teams to build high-performance applications with asynchronous support (using **Celery** and **WebSockets**).
 - Contributed to enhancing system architecture, performance, and reliability.
 
-### Python Developer | Freelance
-*March 2021 - Present*
-
-- Worked with various clients, delivering Python-based solutions, particularly in **Django Rest Framework** and **FastAPI**.
-- Implemented CI/CD pipelines to automate testing, building, and deployment processes.
-  
-### Software Engineer | [Company Name]
-*January 2019 - February 2021*
-
-- Developed backend systems using **Python** and **C#**, focusing on high-performance APIs and microservices architecture.
-- Utilized **Docker** for containerization and ensured smooth deployment pipelines.
-
 ## 🌱 Currently Learning
 
 - Improving my skills in **Distributed Systems** and **Cloud Computing**.
@@ -61,9 +49,9 @@
 
 ## 📫 How to Reach Me
 
-- Email: [your.email@example.com]
-- LinkedIn: [LinkedIn Profile URL]
-- GitHub: [GitHub Profile URL]
+- Email: [your.arapovmuhammadjon1@gmail.com]
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/muhammadjon-arabov-6423682a2/)
+- GitHub: [GitHub Profile](https://github.com/MuhammadjonArabov)
 
 ---
 
