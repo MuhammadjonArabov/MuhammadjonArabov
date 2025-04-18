@@ -52,6 +52,7 @@
 - Email: [your.arapovmuhammadjon1@gmail.com]
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/muhammadjon-arabov-6423682a2/)
 - GitHub: [GitHub Profile](https://github.com/MuhammadjonArabov)
+- LeetCode: [LeetCode Profile](https://leetcode.com/u/Muhammadjon_Ararbov/)
 
 ---
 
