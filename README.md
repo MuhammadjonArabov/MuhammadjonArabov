@@ -2,17 +2,17 @@
 
 🎯 **Python Backend Developer** | ⚙️ **Scalable Systems** | 🚀 **Clean Code Enthusiast**
 
-Salom! Men **Arabov Muhammadjon** — zamonaviy backend yechimlar yaratishda ixtisoslashgan, tajribali va ishtiyoqli Python dasturchisiman. Men uchun kod — bu san’at. Tejamkor, samarali va kengaytiriladigan tizimlar qurish mening ishim va zavqim!
+Hello! I'm **Arabov Muhammadjon**, a passionate and experienced Python developer focused on building efficient, scalable backend systems. For me, code is more than just functionality — it’s an art. I strive to create backend solutions that are clean, robust, and production-ready.
 
 ---
 
-## 🧰 Texnologiyalar & Asboblar
+## 🧰 Technologies & Tools
 
-### 🖥️ Dasturlash tillari
+### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 
-### 🌐 Web Freymvorklar
+### 🌐 Web Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 
@@ -20,47 +20,47 @@ Salom! Men **Arabov Muhammadjon** — zamonaviy backend yechimlar yaratishda ixt
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?logo=githubactions&logoColor=white&style=for-the-badge)
 
-### 🔁 Asinxron dasturlash
+### 🔁 Asynchronous Programming
 ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-35495E?style=for-the-badge&logo=websockets&logoColor=white)
 
 ---
 
-## 🧠 Ko'nikmalar
+## 🧠 Skills
 
 ### 🔧 Backend Development
-- DRF va FastAPI yordamida **RESTful API** lar yaratishda tajriba.
-- **Asinxron** muhitlarda (Celery, WebSockets) yuqori samarali tizimlar qurganman.
+- Proficient in building **RESTful APIs** with Django Rest Framework and FastAPI.
+- Experience in creating high-performance, asynchronous systems using **Celery** and **WebSockets**.
 
-### ⚙️ CI/CD & Avtomatlashtirish
-- **Docker** bilan integratsiya va **CI/CD** pipeline’lar orqali avtomatlashtirilgan deploy jarayonlari.
-- Jarayonlarni soddalashtiruvchi DevOps yondashuvlariga e’tibor qarataman.
+### ⚙️ CI/CD & Automation
+- Skilled in containerizing applications with **Docker**.
+- Implementing **CI/CD pipelines** to automate testing, building, and deployment processes.
 
 ### ✅ Test-Driven Development
-- Kodingda **TDD (Test-Driven Development)** prinsiplariga amal qilaman — toza, ishonchli va xatolardan xoli kod yozaman.
+- Advocate of **TDD** to ensure clean, maintainable, and bug-free code.
 
 ---
 
-## 💼 Tajriba
+## 💼 Experience
 
-### 🏢 Python Developer | SoffHub
-📅 *May 2024 - November 2024*
+### 🏢 Python Developer | SoffHub  
+📅 *May 2024 – November 2024*
 
-- **DRF** va **FastAPI** yordamida kuchli va kengaytiriladigan backend tizimlar yaratdim.
-- **Docker** yordamida konteynerlash va **CI/CD** bilan deploy jarayonlarini avtomatlashtirdim.
-- **Celery** va **WebSockets** asosida yuqori samarali, real-time tizimlarga asinxronlik qo‘shdim.
-- Arxitektura va tizim samaradorligini oshirishda faol qatnashdim.
-
----
-
-## 🚀 Hozirda o‘rganilmoqda
-
-- **Distributed Systems** va **Cloud Computing** — kengaytiriladigan arxitekturalar uchun chuqurroq tushuncha.
-- **Data Science / Machine Learning** — aqlli tizimlar yaratish uchun asosiy konsepsiyalar.
+- Developed scalable backend systems and REST APIs using **Django Rest Framework** and **FastAPI**.
+- Used **Docker** to containerize applications and built **CI/CD pipelines** to automate deployments.
+- Integrated **Celery** and **WebSockets** for asynchronous task processing and real-time features.
+- Worked closely with cross-functional teams to improve architecture, performance, and reliability.
 
 ---
 
-## 📬 Aloqa
+## 🚀 Currently Exploring
+
+- Diving deeper into **Distributed Systems** and **Cloud Computing** for highly available architectures.
+- Exploring **Data Science / Machine Learning** to build intelligent, data-driven applications.
+
+---
+
+## 📬 Contact Me
 
 📧 **Email**: your.arapovmuhammadjon1@gmail.com  
 🔗 **LinkedIn**: [Muhammadjon Arabov](https://www.linkedin.com/in/muhammadjon-arabov-6423682a2/)  
@@ -69,6 +69,6 @@ Salom! Men **Arabov Muhammadjon** — zamonaviy backend yechimlar yaratishda ixt
 
 ---
 
-## 🎯 Qiziqarli fakt
+## 🎯 Fun Fact
 
-💡 Men har kuni **kodlash** orqali o‘z ko‘nikmalarimni oshiraman — bu mening hobbim ham, ishim ham! **Coding Challenges** va real loyihalarda doimiy ishtirok etaman.
+💡 I'm passionate about problem-solving and constantly sharpening my skills by participating in **coding challenges** and building real-world projects.
