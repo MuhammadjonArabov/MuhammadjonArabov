@@ -55,12 +55,6 @@ Hello! I'm **Arabov Muhammadjon**, a passionate and experienced Python developer
 
 ---
 
-## 🚀 Currently Exploring
-
-- Diving deeper into **Distributed Systems** and **Cloud Computing** for highly available architectures.
-- Exploring **Data Science / Machine Learning** to build intelligent, data-driven applications.
-
----
 
 ## 📬 Contact Me
 
@@ -69,8 +63,3 @@ Hello! I'm **Arabov Muhammadjon**, a passionate and experienced Python developer
 💻 **GitHub**: [MuhammadjonArabov](https://github.com/MuhammadjonArabov)  
 🧠 **LeetCode**: [Muhammadjon_Ararbov](https://leetcode.com/u/Muhammadjon_Ararbov/)
 
----
-
-## 🎯 Fun Fact
-
-💡 I'm passionate about problem-solving and constantly sharpening my skills by participating in **coding challenges** and building real-world projects.
