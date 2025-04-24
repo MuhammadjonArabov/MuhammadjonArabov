@@ -11,10 +11,12 @@ Hello! I'm **Arabov Muhammadjon**, a passionate and experienced Python developer
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
 ### 🌐 Web Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-EF4135?logo=laravel&logoColor=white&style=for-the-badge)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
