@@ -57,7 +57,7 @@ Hello! I'm **Arabov Muhammadjon**, a passionate and experienced Python developer
 
 ## 📬 Contact Me
 
-📧 **Email**: your.arapovmuhammadjon1@gmail.com  
+📧 **Email**: your.arabovmuhammadjon13@gmail.com  
 🔗 **LinkedIn**: [Muhammadjon Arabov](https://www.linkedin.com/in/muhammadjon-arabov-6423682a2/)  
 💻 **GitHub**: [MuhammadjonArabov](https://github.com/MuhammadjonArabov)  
 🧠 **LeetCode**: [Muhammadjon_Ararbov](https://leetcode.com/u/Muhammadjon_Ararbov/)
